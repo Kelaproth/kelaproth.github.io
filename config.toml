@@ -1,4 +1,4 @@
-baseURL = "https://kelaproth.github.io/"
+baseURL = "https://kelaproth.github.io"
 
 # set your your own ga token here.
 googleAnalytics = "UA/G-RVTMYG4NZ4"
