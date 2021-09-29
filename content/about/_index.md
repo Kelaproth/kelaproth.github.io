@@ -1,10 +1,10 @@
 ---
 title: "about"
-date: 2020-10-20T17:51:47+03:30
+date: 2021-09-29T17:51:47+08:00
 draft: false
 headless: true
 
-full_name: "YOUR_NAME"
+full_name: "TANG Tianhao"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
