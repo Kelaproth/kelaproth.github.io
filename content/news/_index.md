@@ -8,10 +8,10 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 5
+num_news: 0
 
 news_items:
-- text: "I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO"
+- text: ""
   extra_text: "August 2023."
   date: 2023-11-20
 ---
