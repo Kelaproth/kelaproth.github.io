@@ -8,7 +8,7 @@ full_name: "TANG Tianhao"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: true
+blog: false
 
 socials:
     # twitter: "YOUR_NAME"
@@ -41,6 +41,6 @@ academia:
 
 Passionate, dedicated, and diligent computer science student with good academic achievement and research experience during the undergraduate study. Gained broad knowledge in computer science and have skills associated with application design, algorithms, and artificial intelligence. Seeking to leverage programming skills and creativity as a researcher.
 
-You can find my CV [here](1).
+You can find my CV [here][1].
 
 [1]: https://kelaproth.github.io/cv.pdf
