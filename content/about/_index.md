@@ -19,10 +19,9 @@ socials:
     # google_scholar: "YOUR_NAME"
 
 interests:
-    - Data Intensive Systems
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Deep Learning
+    - Computer Vision
+    - Data Science
 
 affiliations:
     - affiliation:
@@ -34,16 +33,14 @@ academia:
     - course:
         degree: "B.Sc."
         institution: 'HKUST'
-        major: 'Computer Science'
+        major: 'Computer Science and Mathematics'
         start_date: '2018'
-        end_date: '2022'
+        end_date: 'Present'
         # other_info: 'graduated with first class honor, supervised by Prof. '
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+Passionate, dedicated, and diligent computer science student with good academic achievement and research experience during the undergraduate study. Gained broad knowledge in computer science and have skills associated with application design, algorithms, and artificial intelligence. Seeking to leverage programming skills and creativity as a researcher.
 
+You can find my CV [here](1).
 
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
-
-
-[1]: ahadsfsa.com
+[1]: https://kelaproth.github.io/cv.pdf
