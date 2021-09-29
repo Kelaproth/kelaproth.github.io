@@ -1,0 +1,11 @@
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
+
+[submodule "themes/avicenna"]
+	path = themes/avicenna
+	url = https://github.com/hadisinaee/avicenna.git
+
+[submodule "themes/hugo-sustain"]
+	path = themes/hugo-sustain
+	url = https://github.com/suyundukov/hugo-sustain.git
