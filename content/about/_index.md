@@ -19,8 +19,8 @@ socials:
     # google_scholar: "YOUR_NAME"
 
 interests:
-    - Deep Learning
-    - Computer Vision
+    - Artificial Intelligence
+    - Graph Neural Network
     - Data Science
 
 affiliations:
